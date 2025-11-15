@@ -5,3 +5,5 @@ function genTicket(n) {
     arr[i] = Math.floor(Math.random() * 10);
   }
 }
+
+export {genTicket};

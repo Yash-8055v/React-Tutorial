@@ -13,6 +13,7 @@ export default function Counter() {
 
   return (
     <div>
+      
       <h3>Count = {count}</h3>
       <button onClick={incCount}>inc Count</button>
     </div>

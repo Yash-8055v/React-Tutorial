@@ -1,9 +1,11 @@
 import { useState } from "react";
 import "./Lottery.css";
-import { genTicket } from "./helper";
+import { genTicket, sum } from "./helper";
 
 export default function Lottery() {
   let [ticket, setTicket] = useState(genTicket(3));
+
+  let isWinning = sum(ticket) === 15;
 
   return (
     <div>
@@ -14,6 +16,7 @@ export default function Lottery() {
         <span>{ticket[1]}</span>
         <span>{ticket[2]}</span>
       </div>
+      <h3>{isWinning && "Congratulations, you won"}</h3>
     </div>
   );
 

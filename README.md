@@ -35,3 +35,50 @@ Props & State
 Conditional Rendering
 
 Lists & Keys
+
+🔄 React Hooks
+
+useState
+
+useEffect
+
+useRef
+
+useContext
+
+Custom Hooks
+
+
+🏗️ Advanced Concepts
+
+React Router
+
+Context API
+
+Performance Optimization (memo, useCallback, useMemo)
+
+Forms & Controlled Components
+
+Error Boundaries
+
+
+🎨 UI & Styling
+
+Tailwind CSS
+
+CSS Modules
+
+Styled Components
+
+Component Libraries (ShadCN, Material UI, etc.)
+
+
+🔧 Tools & Ecosystem
+
+Vite / Create React App
+
+npm / yarn
+
+ESLint + Prettier
+
+State Management Basics (Redux Toolkit – optional)

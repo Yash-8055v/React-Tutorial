@@ -81,4 +81,38 @@ npm / yarn
 
 ESLint + Prettier
 
-State Management Basics (Redux Toolkit – optional)
+State Management Basics 
+
+🎯 Goal of This Repository
+
+My goal is to:
+
+Build strong React foundation
+
+Practice by writing real, clean code
+
+Explore advanced concepts step-by-step
+
+Prepare for frontend interviews and real-world React development
+
+
+
+---
+
+🤝 Contribute
+
+If you find anything to improve or want to share suggestions, feel free to open an issue or PR!
+
+
+---
+
+⭐ Support
+
+If you like this repo or find it helpful, don’t forget to:
+
+⭐ Star the repository
+
+It motivates me to keep learning and sharing!
+
+
+---

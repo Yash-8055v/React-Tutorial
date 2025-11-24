@@ -1,16 +1,118 @@
-# React + Vite
+📘 React Learning Repository
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my React Learning Repository!
+This repo contains my notes, code samples, concepts, mini-projects, and experiments as I learn and explore the React ecosystem.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+🚀 About This Repository
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This repository is created to:
 
-## Expanding the ESLint configuration
+Document my journey of learning React.js
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Store practice code, examples, and experiments
+
+Build a strong foundation of core + advanced React concepts
+
+Help others who are also learning React
+
+
+
+---
+
+📚 Topics I’m Covering
+
+✅ React Fundamentals
+
+JSX
+
+Components (Functional & Class)
+
+Props & State
+
+Conditional Rendering
+
+Lists & Keys
+
+🔄 React Hooks
+
+useState
+
+useEffect
+
+useRef
+
+useContext
+
+Custom Hooks
+
+
+🏗️ Advanced Concepts
+
+React Router
+
+Context API
+
+Performance Optimization (memo, useCallback, useMemo)
+
+Forms & Controlled Components
+
+Error Boundaries
+
+
+🎨 UI & Styling
+
+Tailwind CSS
+
+CSS Modules
+
+Styled Components
+
+Component Libraries (ShadCN, Material UI, etc.)
+
+
+🔧 Tools & Ecosystem
+
+Vite / Create React App
+
+npm / yarn
+
+ESLint + Prettier
+
+State Management Basics 
+
+🎯 Goal of This Repository
+
+My goal is to:
+
+Build strong React foundation
+
+Practice by writing real, clean code
+
+Explore advanced concepts step-by-step
+
+Prepare for frontend interviews and real-world React development
+
+
+
+---
+
+🤝 Contribute
+
+If you find anything to improve or want to share suggestions, feel free to open an issue or PR!
+
+
+---
+
+⭐ Support
+
+If you like this repo or find it helpful, don’t forget to:
+
+⭐ Star the repository
+
+It motivates me to keep learning and sharing!
+
+
+---

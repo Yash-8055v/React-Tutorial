@@ -1,5 +1,5 @@
 // import './App.css'
-
+import SearchBox from "./SearchBox";
 
 
 function App() {
@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      
+      <SearchBox></SearchBox>
     </>
   )
 }
